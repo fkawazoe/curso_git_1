@@ -1,2 +1,7 @@
 Testando uma atualização de arquivo.
 Via GitHub.
+a
+b
+c
+d
+e
